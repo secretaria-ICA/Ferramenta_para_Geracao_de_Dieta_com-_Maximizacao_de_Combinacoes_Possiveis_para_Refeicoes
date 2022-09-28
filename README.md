@@ -1,3 +1,5 @@
+# Ferramenta para geração de dieta, com maximização de combinações possíveis para refeições com restrições e alvo calórico diário.
+
 #### Aluno: [Máurion Lourenço de Freitas](https://github.com/link_do_github)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
 
