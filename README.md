@@ -17,20 +17,20 @@ Com o propósito de se tentar restabelecer o peso ideal com uma dieta hipocalór
 A dieta proposta por Tony Robbins não prioriza restrições em calorias, mas sim em combinações de alimentos que facilitam a digestão, abaixo algumas premissas que precisam ser atendidas para obtenção de resultado na dieta. 
 
  - Alvo calórico diário estabelecido (no máximo de 2 mil p/ dia) 
- - 4 refeições diarias com intervalo mínimo de 3 horas entre cada refeição.
+ - 4 refeições diárias com intervalo mínimo de 3 horas entre cada refeição.
  - Não é permitida a ingestão de líquidos durante as refeições.
  - 4 Categorias de alimentos proteínas, carboidratos, vegetais e frutas para composição da dieta.
- - Cada refeição não pode conter carboidratos e proteinas juntos.
- - Já as frutas são a unica categoria permitido no lanche da tarde e não devem estar presentes nas demais refeições.
+ - Cada refeição não pode conter carboidratos e proteínas juntos.
+ - Já as frutas são a única categoria permitido no lanche da tarde e não devem estar presentes nas demais refeições.
  - O café da manhã possui permissões adicionais caso a caso, com um campo próprio permitindo ou não.
- - As refeições possuem no minimo 3 e no máximo 5 itens, com exceção para o café da manhã com somente 3 itens na sua composição.
- - Para todas as refeições é necessário que haja no minimo 3 itens distintos.
+ - As refeições possuem no mínimo 3 e no máximo 5 itens, com exceção para o café da manhã com somente 3 itens na sua composição.
+ - Para todas as refeições é necessário que haja no mínimo 3 itens distintos.
  - Realizar a dieta por 7 dias (podendo se estender a mais tempo.)
  
 
 ### 1. Introdução
 
-A ferramenta tem como objetivo gerar uma dieta proposta, tendo em vista a diversificação de alimentos, não sendo sempre carboidrato ou sempre proteina, somando as 4 refeições dirária não podendo ultrapassar os 2 mil kcal por dia, respeitando as restrições e podendo ter um grande resultado, com base nos produtos cadastrados via sistema (tela de cadastro de produtos), tendo uma tela de cadastro de pessoa para acompanhamento do processo, com o objetivo de calcular o IMC e assim informando o peso ideal e o necessário de peso a perder, contando com uma tela de geração de Dieta e também uma Dashboard para ser feito o acompanhamento dos resultados.
+A ferramenta tem como objetivo gerar uma dieta proposta, tendo em vista a diversificação de alimentos, não sendo sempre carboidrato ou sempre proteina, somando as 4 refeições diárias não podendo ultrapassar os 2 mil kcal por dia, respeitando as restrições e podendo ter um grande resultado, com base nos produtos cadastrados via sistema (tela de cadastro de produtos), tendo uma tela de cadastro de pessoa para acompanhamento do processo, com o objetivo de calcular o IMC e assim informando o peso ideal e o necessário de peso a perder, contando com uma tela de geração de Dieta e também uma Dashboard para ser feito o acompanhamento dos resultados.
 
 
 ### 2. Modelagem
