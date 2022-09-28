@@ -43,13 +43,13 @@ ao final o algoritimo verifica a kcal se está entre 1800 a 2000, caso não este
 
  - Foi criado no Excel uma tabela para cada uma das 4 refeições diárias, com as respectivas quantidades de itens (em linhas) e com os 7 dias da semana (em coluna) isso para podermos validar o algoritmo, valido apenas entre 1800 a 2000 diaria.
 
-![Refeições diárias](imagens/resultado_itens.png "Refeições diárias no excel").
+![Refeições diárias](imagens/resultado_iten.png "Refeições diárias no excel").
 
  - Abaixo de cada tabela de cada refeição, foi criada uma fórmula com o retorno binário (0 para false ou 1 para true) conforme as restrições imposta para cada caso. Ao final da Dieta verificamos o valor de caloria gerada.
  
  - No excel foi feita uma integração com o banco de dados onde o mesmo pega as informações dos produtos gerados no banco pelo PDI, já faz a validação conforme informado e em outra tela já mostra a Dieta gerada com o nome dos produtos e dias.
  
- ![Refeições diárias](imagens/itens.png "Refeições para o consumo diário").
+ ![Refeições diárias](imagens/iten.png "Refeições para o consumo diário").
 
  - Voltando ao PHP, também foi desenvolvido uma tela com integração para o PDI, executando um comando onde é chamado o PDI via CMD, que faz a chamada do PDI via .bat, assim iniciando o processo de geração de dieta pelo PHP, que ao termino é exibido uma mensagem no sistema informando o término.
  
