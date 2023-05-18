@@ -1,4 +1,4 @@
-# Ferramenta_para_Geracao_de_Dieta_com _Maximizacao_de_Combinacoes_Possíveis_para_Refeicoes_com_Restricoes_e-Alvo-Calorico_Diario
+# Ferramenta_para_Geracao_de_Dieta_com _Maximizacao_de_Combinacoes_Possiveis_para_Refeicoes_com_Restricoes_e_Alvo_Calorico_Diario
 
 #### Aluno: [Máurion Lourenço de Freitas](https://github.com/maurionFreitas)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
